@@ -1,3 +1,5 @@
+As a backup for Gustav in case this API ever goes offline so that we could host it ourselves.
+
 Code for https://ui-avatars.com
 
 ## Contributors
